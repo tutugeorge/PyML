@@ -1,6 +1,6 @@
 # PyML
 
-	Learning project for Python.
+	Learning project for Python. This containes learning exercises using libraries like Pandas and Matplotlib
 
 
 	References used for learning
